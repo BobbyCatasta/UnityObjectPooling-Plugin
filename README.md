@@ -1,5 +1,5 @@
 # 🔄 Object Pooling Plugin (Unity)
-### High-performance pooling tool for Unity — by **Alessio Desidero**
+### High-performance pooling tool for Unity
 
 ---
 
